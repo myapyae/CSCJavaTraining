@@ -8,11 +8,11 @@ public class test {
 		
 		
 	    
-	    iInc=i++;//increment after operation
+	    iInc=i++;//postfix operation
 	    System.out.println("the value of iInc " + iInc);
 	    System.out.println("the value of i " + i);
 	    
-	    iInc=++i;//increment before operation
+	    iInc=++i;//prefix operation
 	    System.out.println("the value of iInc " + iInc);
 	    System.out.println("the value of i " + i);
 	  
